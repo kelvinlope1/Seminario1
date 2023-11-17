@@ -1,0 +1,8 @@
+C:\Users\kelvi\OneDrive\Escritorio\Seminarios1\OrdenamientoBurbuja\OrdenamientoBurbuja\bin\Debug\OrdenamientoBurbuja.exe.config
+C:\Users\kelvi\OneDrive\Escritorio\Seminarios1\OrdenamientoBurbuja\OrdenamientoBurbuja\bin\Debug\OrdenamientoBurbuja.exe
+C:\Users\kelvi\OneDrive\Escritorio\Seminarios1\OrdenamientoBurbuja\OrdenamientoBurbuja\bin\Debug\OrdenamientoBurbuja.pdb
+C:\Users\kelvi\OneDrive\Escritorio\Seminarios1\OrdenamientoBurbuja\OrdenamientoBurbuja\obj\Debug\OrdenamientoBurbuja.csproj.AssemblyReference.cache
+C:\Users\kelvi\OneDrive\Escritorio\Seminarios1\OrdenamientoBurbuja\OrdenamientoBurbuja\obj\Debug\OrdenamientoBurbuja.csproj.SuggestedBindingRedirects.cache
+C:\Users\kelvi\OneDrive\Escritorio\Seminarios1\OrdenamientoBurbuja\OrdenamientoBurbuja\obj\Debug\OrdenamientoBurbuja.csproj.CoreCompileInputs.cache
+C:\Users\kelvi\OneDrive\Escritorio\Seminarios1\OrdenamientoBurbuja\OrdenamientoBurbuja\obj\Debug\OrdenamientoBurbuja.exe
+C:\Users\kelvi\OneDrive\Escritorio\Seminarios1\OrdenamientoBurbuja\OrdenamientoBurbuja\obj\Debug\OrdenamientoBurbuja.pdb

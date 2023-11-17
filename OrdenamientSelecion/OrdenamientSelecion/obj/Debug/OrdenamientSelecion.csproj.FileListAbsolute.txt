@@ -1,0 +1,8 @@
+C:\Users\kelvi\OneDrive\Escritorio\Seminarios1\OrdenamientSelecion\OrdenamientSelecion\bin\Debug\OrdenamientSelecion.exe.config
+C:\Users\kelvi\OneDrive\Escritorio\Seminarios1\OrdenamientSelecion\OrdenamientSelecion\bin\Debug\OrdenamientSelecion.exe
+C:\Users\kelvi\OneDrive\Escritorio\Seminarios1\OrdenamientSelecion\OrdenamientSelecion\bin\Debug\OrdenamientSelecion.pdb
+C:\Users\kelvi\OneDrive\Escritorio\Seminarios1\OrdenamientSelecion\OrdenamientSelecion\obj\Debug\OrdenamientSelecion.csproj.AssemblyReference.cache
+C:\Users\kelvi\OneDrive\Escritorio\Seminarios1\OrdenamientSelecion\OrdenamientSelecion\obj\Debug\OrdenamientSelecion.csproj.SuggestedBindingRedirects.cache
+C:\Users\kelvi\OneDrive\Escritorio\Seminarios1\OrdenamientSelecion\OrdenamientSelecion\obj\Debug\OrdenamientSelecion.csproj.CoreCompileInputs.cache
+C:\Users\kelvi\OneDrive\Escritorio\Seminarios1\OrdenamientSelecion\OrdenamientSelecion\obj\Debug\OrdenamientSelecion.exe
+C:\Users\kelvi\OneDrive\Escritorio\Seminarios1\OrdenamientSelecion\OrdenamientSelecion\obj\Debug\OrdenamientSelecion.pdb

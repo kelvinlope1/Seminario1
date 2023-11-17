@@ -1,0 +1,8 @@
+C:\Users\kelvi\OneDrive\Escritorio\Seminarios1\OrdenamientoRápido(Quicksort)\OrdenamientoRápido(Quicksort)\bin\Debug\OrdenamientoRápido(Quicksort).exe.config
+C:\Users\kelvi\OneDrive\Escritorio\Seminarios1\OrdenamientoRápido(Quicksort)\OrdenamientoRápido(Quicksort)\bin\Debug\OrdenamientoRápido(Quicksort).exe
+C:\Users\kelvi\OneDrive\Escritorio\Seminarios1\OrdenamientoRápido(Quicksort)\OrdenamientoRápido(Quicksort)\bin\Debug\OrdenamientoRápido(Quicksort).pdb
+C:\Users\kelvi\OneDrive\Escritorio\Seminarios1\OrdenamientoRápido(Quicksort)\OrdenamientoRápido(Quicksort)\obj\Debug\OrdenamientoRápido(Quicksort).csproj.AssemblyReference.cache
+C:\Users\kelvi\OneDrive\Escritorio\Seminarios1\OrdenamientoRápido(Quicksort)\OrdenamientoRápido(Quicksort)\obj\Debug\OrdenamientoRápido(Quicksort).csproj.SuggestedBindingRedirects.cache
+C:\Users\kelvi\OneDrive\Escritorio\Seminarios1\OrdenamientoRápido(Quicksort)\OrdenamientoRápido(Quicksort)\obj\Debug\OrdenamientoRápido(Quicksort).csproj.CoreCompileInputs.cache
+C:\Users\kelvi\OneDrive\Escritorio\Seminarios1\OrdenamientoRápido(Quicksort)\OrdenamientoRápido(Quicksort)\obj\Debug\OrdenamientoRápido(Quicksort).exe
+C:\Users\kelvi\OneDrive\Escritorio\Seminarios1\OrdenamientoRápido(Quicksort)\OrdenamientoRápido(Quicksort)\obj\Debug\OrdenamientoRápido(Quicksort).pdb

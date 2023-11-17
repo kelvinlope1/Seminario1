@@ -1,0 +1,8 @@
+C:\Users\kelvi\OneDrive\Escritorio\Seminarios1\OrdenamientoInsercion\OrdenamientoInsercion\bin\Debug\OrdenamientoInsercion.exe.config
+C:\Users\kelvi\OneDrive\Escritorio\Seminarios1\OrdenamientoInsercion\OrdenamientoInsercion\bin\Debug\OrdenamientoInsercion.exe
+C:\Users\kelvi\OneDrive\Escritorio\Seminarios1\OrdenamientoInsercion\OrdenamientoInsercion\bin\Debug\OrdenamientoInsercion.pdb
+C:\Users\kelvi\OneDrive\Escritorio\Seminarios1\OrdenamientoInsercion\OrdenamientoInsercion\obj\Debug\OrdenamientoInsercion.csproj.AssemblyReference.cache
+C:\Users\kelvi\OneDrive\Escritorio\Seminarios1\OrdenamientoInsercion\OrdenamientoInsercion\obj\Debug\OrdenamientoInsercion.csproj.SuggestedBindingRedirects.cache
+C:\Users\kelvi\OneDrive\Escritorio\Seminarios1\OrdenamientoInsercion\OrdenamientoInsercion\obj\Debug\OrdenamientoInsercion.csproj.CoreCompileInputs.cache
+C:\Users\kelvi\OneDrive\Escritorio\Seminarios1\OrdenamientoInsercion\OrdenamientoInsercion\obj\Debug\OrdenamientoInsercion.exe
+C:\Users\kelvi\OneDrive\Escritorio\Seminarios1\OrdenamientoInsercion\OrdenamientoInsercion\obj\Debug\OrdenamientoInsercion.pdb
